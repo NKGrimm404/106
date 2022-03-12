@@ -1,0 +1,36 @@
+body{
+    font-family: 'Smooch Sans', sans-serif;
+    background-image:url(backyard-landscape-design-simple-decoration-landscaping-271358.jpeg);
+    background-size: cover;
+    color: white;
+    }
+    .header_div{
+        background: #154939;
+        width: 100%;
+    }
+    .header_div p{
+        font-family: 'Smooch Sans', sans-serif;
+        color:white;
+        letter-spacing: 2px;
+        font-size: 12px;
+        font-weight: bold;
+    }
+    .main_div button{
+        font-family: 'Smooch Sans', sans-serif;
+        margin-top: 30px;
+        width: 130px;
+        font-weight: bolder;
+        letter-spacing: 3px;
+        background-color:rgb(15, 97, 83)
+    }
+    .copy_right_footer{
+        position: fixed;
+        color: #F6E8FF;
+        bottom: 0;
+        width: 100%;
+        font-size: 18px;
+        background-color: rgb(40, 131, 101);
+        line-height:3;
+        text-align: center;
+        text-shadow: 5px 5px 5px rgb(15, 97, 83);
+    }
